@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght&display=swap');
+
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.hero {
+    background: url('../src/assets/backpc.jpg');
+    height: 400px;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+.btn-danger {
+    background-color: #E71800 !important;
+}
+
+.bg-red {
+    background-color: #E71800;
+    width: 180px;
+    height: 6px;
+    border-radius: 8px;
+}
+
+.text-danger {
+    color: #E71800 !important;
+}
+
+.bg-cover {
+    background: url('../src/assets/cover.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 196px;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 32px;
+}
