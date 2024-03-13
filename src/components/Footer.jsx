@@ -1,8 +1,8 @@
 import React from 'react'
-import Gallery1 from '../assets/Gallery1.png'
-import Gallery2 from '../assets/Gallery2.png'
-import Gallery3 from '../assets/Gallery3.png'
-import Gallery4 from '../assets/Gallery4.png'
+import Gallery1 from '../assets/gallery1.png'
+import Gallery2 from '../assets/gallery2.png'
+import Gallery3 from '../assets/gallery3.png'
+import Gallery4 from '../assets/gallery4.png'
 
 function Footer() {
   return (
