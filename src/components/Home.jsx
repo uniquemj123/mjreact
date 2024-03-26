@@ -6,9 +6,6 @@ import Icon2 from '../assets/icon2.png'
 import Icon3 from '../assets/icon3.png'
 import Form from './Form'
 
-
-
-
 function Home() {
   return (
     <>
